@@ -9,7 +9,7 @@
 <div align="center">
    <img src="https://img.shields.io/badge/-Software%20Developer-61DAFB?style=for-the-badge" alt="Software Developer"/>
   <img src="https://img.shields.io/badge/-MSc%20Student-4285F4?style=for-the-badge" alt="MSc Student"/>
-  <img src="https://img.shields.io/badge/-First%20Class%20BSc-FF0000?style=for-the-badge" alt="First Class BSc"/>
+  <img src="https://img.shields.io/badge/-First%20Class%20BSc-FF0000?style=for-the-badge"/>
 </div>
 
 ## About Me 👨‍💻
@@ -64,7 +64,6 @@ Full-stack Software Developer specializing in React and React Native development
 **TECH STACK:** React Native, Expo, Google Cloud APIs, AsyncStorage, React Navigation
 
 ### [BookMySpot](https://github.com/HenryOnilude/BookMySpot): Urban Parking Management Platform
-<img src="https://img.shields.io/badge/-Personal_Project-purple?style=for-the-badge" alt="Personal Project"/>
 
 **CHALLENGE:** Urban drivers waste 17 minutes on average finding parking, with 78% reporting frustration and 42% abandoning bookings due to complicated interfaces.
 
