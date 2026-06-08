@@ -1,103 +1,59 @@
-# Hi, I'm Henry 👋
-
 <div align="center">
-  
-**Full-Stack Engineer | React Native • Next.js • AI/ML**
 
-Building intelligent mobile and web applications with focus on performance and accessibility.
+# Henry Onilude
 
-[Portfolio](https://henryonilude.co.uk) • [LinkedIn](https://linkedin.com/in/henry-onilude) • [Email](mailto:henryonilude@hotmail.co.uk)
+I build tools that make invisible things visible.
+
+[vivix.dev](https://vivix.dev) · [Portfolio](https://henryonilude.co.uk) · [LinkedIn](https://linkedin.com/in/henry-onilude) · [Dev.to](https://dev.to/henryonilude)
 
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## Vivix — JavaScript Execution Visualiser
 
-### 🤖 TakeNotes - AI-Powered Note-Taking App
-**University Showcase Finalist | Dissertation Project**
+![CI](https://github.com/HenryOnilude/vivix/actions/workflows/ci.yml/badge.svg)
+![Users](https://img.shields.io/badge/users-1%2C400%2B-blue)
+![Countries](https://img.shields.io/badge/countries-88-brightgreen)
 
-<div align="center">
+Most JS visualisers show you the event loop from above. Vivix steps through every individual instruction — heap mutations, stack operations, subexpression evaluation — one tick at a time.
 
+**Architecture:** AST parsing via Acorn runs in a Web Worker, keeping the main thread free for 60fps GSAP animations. Svelte 5's fine-grained reactivity surgically updates only the affected DOM nodes on each step.
 
-[![View Project](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/HenryOnilude/note-taking-app)
-[![Full Documentation](https://img.shields.io/badge/Docs-Read%20More-blue?style=for-the-badge)](https://github.com/HenryOnilude/note-taking-app#readme)
+**Validation:** 490 passing tests · MIT licensed · 12 interactive modules
 
-</div>
+**Traction:** 1,400+ real users · 88 countries · #1 on r/javascript
 
-Mobile app using **Google Cloud Vision API** for text recognition and intelligent note organization. Selected as **Final Year Project Dissertation Finalist**.
-
-**Key Features:** AI text recognition • Image analysis & labeling • Smart summarization • Text-to-speech • Offline-first architecture
-
-**Tech:** React Native • Expo • Google Cloud Vision API • AsyncStorage
+→ **[vivix.dev](https://vivix.dev)** · [GitHub](https://github.com/HenryOnilude/vivix)
 
 ---
 
-### 🅿️ BookMySpot - Real-Time Urban Parking Platform
+## Research
 
-<div align="center">
-  
-
-[![View Project](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/HenryOnilude/BookMySpot)
-[![Full Documentation](https://img.shields.io/badge/Docs-Read%20More-blue?style=for-the-badge)](https://github.com/HenryOnilude/BookMySpot#readme)
-
-</div>
-
-Full-stack platform with **real-time WebSocket updates**, interactive mapping, and **80%+ test coverage**.
-
-**Key Features:** Real-time availability tracking • Leaflet Maps integration • Stripe payments • NextAuth.js authentication • WCAG 2.1 AA compliant
-
-**Tech:** Next.js 14 • TypeScript • PostgreSQL • Prisma ORM • Stripe API
+**Distance-Adaptive Biometric Recognition** — peer-reviewed, MDPI Electronics (IF 2.1). EfficientNetB3 transfer learning, 87% accuracy from 45.2% baseline. [synchrocv.com](https://synchrocv.com)
 
 ---
 
-## 💻 Tech Stack
+## Other Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</p>
+**[BookMySpot](https://github.com/HenryOnilude/BookMySpot)** — real-time parking platform. WebSocket availability, Stripe payments, 80%+ test coverage. Next.js 14 · TypeScript · PostgreSQL · Prisma.
 
-**Mobile:** React Native • Expo • iOS/Android  
-**Web:** Next.js • React • TypeScript  
-**AI/ML:** Google Cloud Vision API • NLP  
-**Backend:** Node.js • PostgreSQL • Prisma ORM  
-**Tools:** Docker • Git • CI/CD
+**[distance-recognition-live-demo](https://github.com/HenryOnilude/distance-recognition-live-demo)** — live webcam face recognition with real-time distance estimation. TensorFlow · Next.js.
 
 ---
 
-## 📊 GitHub Activity
+## Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryOnilude&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  
-💼 Open to full-stack & React Native opportunities  
-📍 London, UK | Remote/Hybrid/International  
-⚡ Response within 24 hours
-
-</p>
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://henryonilude.co.uk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henry-onilude)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henryonilude@hotmail.co.uk)
-
-</div>
+TypeScript · JavaScript · Python · Svelte 5 · React · Next.js · Node.js  
+Acorn AST · CodeMirror 6 · GSAP · D3 · TensorFlow · PostgreSQL · Supabase  
+PostHog · Docker · AWS · Google Cloud
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HenryOnilude&color=blueviolet&style=flat-square" alt="Profile Views" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/henry-onilude)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:henry@henryonilude.co.uk)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/henryonilude)
+
 </div>
